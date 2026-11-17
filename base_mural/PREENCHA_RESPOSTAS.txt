@@ -1,0 +1,25 @@
+DIA 3 - MURAL DA EQUIPE
+
+Antes de entregar, salve este arquivo com o nome respostas_Nome_Sobrenome.txt.
+Se estiver em dupla, escreva os dois nomes no arquivo.
+
+Nome(s): Sibele 
+Turma: Verpertino V1
+Tema do aviso: Os avisos da nossa equipe
+
+1. O que aparecia na página antes de clicar no botão?
+Resposta:
+ Nenhum aviso aberto
+2. O que apareceu depois do clique? Escreva o título e a descrição que você viu.
+Resposta: clique no botão para ler, Oficina de JavaScript
+Traga seu projeto para a pratica
+
+3. Você mudou um texto no objeto aviso, salvou, recarregou e clicou de novo.
+O que aconteceu? Descreva com suas palavras.
+Resposta: O texto foi atualizado na página depois que salvei, regarreguei e cliquei novamente no botão
+
+4. No seu código, qual é a diferença entre titulo e aviso.titulo?
+Por que os textos só mudam depois do clique?
+Resposta:
+Titulo é a pagina que recebe o texto e aviso.titulo é oque esta sendo guardado no objeto
+e só mudam depois do clique porque executa a função e assim a página é atualizada.
